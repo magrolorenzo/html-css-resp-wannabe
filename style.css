@@ -71,3 +71,26 @@ img {
 .clear {
   clear: both;
 }
+/************************************* Media Query Lorenzo **********/
+@media screen and (max-width:420px) {
+    /* sezione Lezioni */
+    #lezioni .row{
+        width: 100%;
+    }
+    #lezioni .row .left, #lezioni .row .right{
+        float: none;
+        width: 100%;
+    }
+
+    /* sezione Steps */
+
+
+
+
+
+
+
+
+    /* sezione Why */
+
+}

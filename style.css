@@ -90,11 +90,20 @@ img {
         float: none;
         width: 100%;
     }
+
     /* sezione Why */
     #why .row{
         width: 100%;
     }
-    #why img{
+    #why .row img{
         padding: 0;
+        margin: 0;
+    }
+    #why .first, #why .second, #why .third{
+        width: 100%;
+    }
+    img{
+        width: 50%;
+        height: auto;
     }
 }

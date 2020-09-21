@@ -94,4 +94,7 @@ img {
     #why .row{
         width: 100%;
     }
+    #why img{
+        padding: 0;
+    }
 }
